@@ -302,3 +302,182 @@ p {
 /* ========== Subscribe =========== */
 
 /* ========== Footer =========== */
+footer{
+	background-color: #0b132a;
+	height: 400px;
+}
+.info h1  {
+	color: #fff;	
+	margin-top: -30px;
+	margin-left: 200px;
+	font-size: 35px;
+}
+.info p {
+	color: #fff;
+}
+i{	
+	position: absolute;
+	background-color: #082838;
+	border-radius: 50%;
+	width: 55px;
+	height: 55px;
+	text-align: center;	
+}
+.loc{
+	margin-top: 40px;
+	margin-left: 170px;
+	color: #fff;
+}
+.loc2{
+	margin-top: 5px;
+	margin-left: 170px;
+	color: #fff;
+}
+.phone{
+	margin-top: 35px;
+	margin-left: 170px;
+	color: #fff;
+}
+.email{
+	margin-top: 50px;
+	margin-left: 170px;
+	color: #fff;
+}
+.fa-map-marker{
+	padding-top: 8px;
+	color: #fff;	
+	margin-top: 30px;
+	margin-left: 90px;
+	font-size: 35px;
+}
+.fa-phone{
+	padding-top: 9px;
+	color: #fff;
+	padding-left: 2px;	
+	margin-top: 15px;
+	margin-left: 90px;
+	font-size: 35px;
+}
+
+.fa-envelope{
+	padding-top: 10px;
+	color: #fff;
+	padding-left: 2px;	
+	margin-top: 30px;
+	margin-left: 90px;
+	font-size: 30px;
+}
+
+.info2 h1 {
+	position: absolute;
+	color: #fff;	
+	margin-top: -270px;
+	margin-left: 900px;
+	font-size: 35px;
+}
+.disc{
+	font-weight: lighter;
+	position: absolute;
+	color: #fff;
+	margin-top: -200px;
+	margin-left: 650px;
+}
+.disc2{
+	font-weight: lighter;
+	position: absolute;
+	color: #fff;
+	margin-top: -174px;
+	margin-left: 650px;
+}
+.disc3{
+	font-weight: lighter;
+	position: absolute;
+	color: #fff;
+	margin-top: -145px;
+	margin-left: 650px;
+}
+.disc4{
+	font-weight: lighter;
+	position: absolute;
+	color: #fff;
+	margin-top: -115px;
+	margin-left: 650px;
+}
+
+.dev {
+	position: absolute;	
+	margin-top: 10px;
+}
+.dev a{
+	position: absolute;
+	background-color: #082838;
+	border-radius: 12%;
+	width: 55px;
+	height: 55px;
+	text-align: center;	
+	text-decoration: none;
+}
+.dev a:active{
+	background-color: red;
+}
+.dev a:hover{
+	opacity: 0.6;
+}
+
+.info3 h1 {
+	position: absolute;
+	color: #fff;	
+	margin-top: -80px;
+	margin-left: 900px;
+	font-size: 35px;
+}
+.info3 .fa-facebook{
+	padding-top: 12px;
+	color: #fff;
+	padding-left: 1px;	
+	margin-top: -20px;
+	margin-left: 750px;
+	font-size: 30px;
+}
+
+.info5 .fa-facebook{
+	position: absolute;
+	padding-top: 12px;
+	color: #fff;
+	padding-left: 1px;	
+	margin-top: -20px;
+	margin-left: 850px;
+	font-size: 30px;
+}
+.info6 .fa-facebook{
+	padding-top: 12px;
+	color: #fff;
+	padding-left: 1px;	
+	margin-top: -20px;
+	margin-left: 950px;
+	font-size: 30px;
+}
+.info7 .fa-facebook{
+	padding-top: 12px;
+	color: #fff;
+	padding-left: 1px;	
+	margin-top: -20px;
+	margin-left: 1050px;
+	font-size: 30px;
+}
+.info8 .fa-facebook{
+	padding-top: 12px;
+	color: #fff;
+	padding-left: 1px;	
+	margin-top: -20px;
+	margin-left: 1150px;
+	font-size: 30px;
+}
+ .reserve{
+	 position: sticky;
+	color: grey;
+	margin-top: 70px;
+	text-align: center;
+	margin-bottom: -40px;
+
+}
